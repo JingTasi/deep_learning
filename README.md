@@ -1,3 +1,3 @@
 # deep_learning
 
-repo for youtube channel: https://www.youtube.com/playlist?list=PLtp8WNnmsfVsR4KfTMkMc3zry6rTx2ELI
+repo for youtube channel: https://www.youtube.com/playlist?list=PLXziV1DL41oguTVk6u4-i82oO9pYy5gpH
